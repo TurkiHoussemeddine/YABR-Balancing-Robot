@@ -12,7 +12,7 @@
   - I2C
   - ...
 - Credits: Mr Joop Brokking (code and blueprints)
-- Demonstration video @ https://youtu.be/GtrrzO9ePTY .
+- Demonstration video @ https://youtu.be/0I9N31iXJZw.
   <br>
 
 (P.S. The code and schematics have been altered in the final version of the project.)
