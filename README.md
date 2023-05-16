@@ -11,7 +11,7 @@
   - Timers
   - I2C
   - ...
-- Credits: Mr Joop Brokking (code and schematics)
+- Credits: Mr Joop Brokking (code and blueprints)
 - Demonstration video @ https://youtu.be/GtrrzO9ePTY .
   <br>
 
